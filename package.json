@@ -1,0 +1,27 @@
+{
+  "name": "cise_react_express_node_app",
+  "version": "1.0.0",
+  "description": "- This repository has the code to support a tutorial that I created on Medium called Create a React FrontEnd, a Node/Express BackEnd and connect them together.\r - This repository can also be used as a starting point (boilerplate), if you whant to create your own React/Express app.\r .",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shifaaz/CISE_React_Express_Node_App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shifaaz/CISE_React_Express_Node_App/issues"
+  },
+  "homepage": "https://github.com/shifaaz/CISE_React_Express_Node_App#readme",
+  "devDependencies": {
+    "eslint": "^7.22.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.22.0",
+    "eslint-plugin-react-hooks": "^4.2.0"
+  }
+}
